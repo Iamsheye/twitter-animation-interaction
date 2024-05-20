@@ -1,5 +1,5 @@
 {
-  "name": "Vite-React-TS-TanstackRouter",
+  "name": "twitter-animation-interaction",
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -10,10 +10,11 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "@tanstack/react-router": "^1.23.1",
-    "@tanstack/router-devtools": "^1.23.1",
+    "@tanstack/react-router": "^1.32.13",
+    "@tanstack/router-devtools": "^1.32.13",
     "react": "^18.2.0",
-    "react-dom": "^18.2.0"
+    "react-dom": "^18.2.0",
+    "styled-components": "^6.1.11"
   },
   "devDependencies": {
     "@tanstack/router-vite-plugin": "^1.23.0",
